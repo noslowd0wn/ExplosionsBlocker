@@ -1,0 +1,12 @@
+name: ExplosionsBlocker
+version: '${project.version}'
+main: explosionsblocker.noslowdwn.ExplosionsBlocker
+authors: [ noslowdwn ]
+description: Prevent any explosions in any worlds
+
+commands:
+  exblocker: {}
+
+permissions:
+  explosionsblocker.reload:
+    description: Allows you to reload the plugin
